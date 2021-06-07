@@ -1,15 +1,14 @@
 # Puerto Rican Genome Assembly
 This repository contains links to a Puerto Rican individual genome assembly and annotation.  
-PR1 is an assembly of an individual from Human Pangenome Project codename HG01243.
-This repository has the initial version 1.0 assembly.
+The assembly is called PR1 and corresponds to an individual from Human Pangenome Project codename HG01243.
 
 # Version 1.0
 This is an initial version described in:
 
 Aleksey Zimin, Alaina Shumate, Ida Shinder, Jakob Heinz, Daniela Puiu, Mihaela Pertea, and Steven L. Salzberg
-`A reference-quality, fully annotated genome from a Puerto Rican individual`
+`A reference-quality, fully annotated genome from a Puerto Rican individual`, unpublished
 
-The sequence for the version 1.0 is available at these locations:
+The sequence for the version 1.0 is available at:
 
 * ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v1.0/Assembly/PR1v1.0.fa.gz
 
@@ -43,9 +42,4 @@ The sequence for the version 1.0 is available at these locations:
 |M|16,568|0|1|
 |unplaced|1,165,067|0|67|
 |Total|3,065,894,716|217,943,071|176||
-
-The sequence is available at this location:
-
-* ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v2.0/Assembly/PR1_v2.0.fa.gz
-
 
