@@ -6,6 +6,7 @@ The assembly is called PR1 and corresponds to an individual from Human Pangenome
 This is an initial version described in:
 
 Aleksey Zimin, Alaina Shumate, Ida Shinder, Jakob Heinz, Daniela Puiu, Mihaela Pertea, and Steven L. Salzberg
+
 `A reference-quality, fully annotated genome from a Puerto Rican individual`, unpublished
 
 The sequence for the version 1.0 is available at:
@@ -15,6 +16,7 @@ The sequence for the version 1.0 is available at:
 # Version 1.0
 
 |Chromosome|Total sequence|Non-HG01243 sequence|Number of contigs|
+|----|----|----|----|
 |1|248,243,692|23,873,221|1|
 |2|242,441,519|6,317,197|1|
 |3|200,623,860|5,696,644|1|
