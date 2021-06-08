@@ -1,9 +1,14 @@
 # Puerto Rican Genome Assembly
-This repository contains links to a Puerto Rican individual genome assembly and annotation.  
-The assembly is called PR1 and corresponds to an individual from Human Pangenome Project codename HG01243.
+
+
+The PR1 reference genome is a reference quality genome of an individual of African descent. 
+The data for the PR1 genome was generated and made publicly available by the Human Pangenome project (https://github.com/human-pangenomics/hpgp-data), which in turn used data from the 1000 Genomes Project and the Genome In A Bottle (GIAB) sample collections.  
+The individual is identified as HG01243 in these collections.
+The chromosome sequences for the PR1 reference genome contain bases encoded in uppercase and lowercase letters.  
+The uppercase letters represent sequence that originated from the PR1 de novo assembled contigs, and the lowercase bases represent sequence that we took from the CHM13 1.0 genome assembly by the T2T consortium (chromosomes 1-22 and X) and GRCh38 (chromosome Y) to fill intra-contig gaps in the chromosome sequences.
 
 # Version 1.0
-This is an initial version described in:
+This version described in:
 
 Aleksey Zimin, Alaina Shumate, Ida Shinder, Jakob Heinz, Daniela Puiu, Mihaela Pertea, and Steven L. Salzberg
 
