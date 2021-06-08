@@ -11,7 +11,7 @@ Aleksey Zimin, Alaina Shumate, Ida Shinder, Jakob Heinz, Daniela Puiu, Mihaela P
 
 The sequence for the version 1.0 is available at:
 
-* ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v1.0/Assembly/PR1v1.0.fa.gz
+* ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v1.0/Assembly/PR1.fa.gz
 
 # Version 1.0
 
