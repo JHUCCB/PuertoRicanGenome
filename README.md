@@ -8,7 +8,7 @@ The individual is identified as HG01243 in these collections.
 
 The chromosome sequences for the PR1 reference genome contain bases encoded in uppercase and lowercase letters.  The uppercase letters represent sequence that originated from the PR1 de novo assembled contigs, and the lowercase bases represent sequence that we took from the CHM13 1.0 genome assembly by the T2T consortium (chromosomes 1-22 and X) and GRCh38 (chromosome Y) to fill intra-contig gaps in the chromosome sequences.
 
-# Version 1.0
+# Version 3.0
 
 This version described in:
 
@@ -16,40 +16,39 @@ Aleksey Zimin, Alaina Shumate, Ida Shinder, Jakob Heinz, Daniela Puiu, Mihaela P
 
 `A reference-quality, fully annotated genome from a Puerto Rican individual`, unpublished
 
-The sequence for the version 1.0 is available at:
+The sequence for the version 3.0 is available at:
 
-* ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v1.0/Assembly/PR1.fa.gz
+* ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v3.0/Assembly/PR1.fa.gz
 
-# Version 1.0
+# Version 3.0
 
 |Chromosome|Total sequence|Non-HG01243 sequence|Number of contigs|
 |----|----|----|----|
-|1|248,243,692|23,873,221|1|
-|2|242,441,519|6,317,197|1|
-|3|200,623,860|5,696,644|1|
-|4|193,343,089|7,406,780|1|
-|5|181,923,926|5,513,656|1|
-|6|171,764,581|3,762,549|1|
-|7|160,350,280|6,017,454|1|
-|8|146,002,196|4,418,110|1|
-|9|150,081,504|36,131,972|1|
-|10|134,238,072|3,896,169|1|
-|11|134,644,853|4,129,054|1|
-|12|133,390,335|2,461,456|1|
-|13|110,077,781|11,656,137|2|
-|14|100,344,869|10,519,739|2|
-|15|97,474,498|15,930,758|2||
-|16|96,221,913|18,324,976|1|
-|17|83,931,792|4,573,052|1|
-|18|80,716,684|5,494,999|1|
-|19|61,708,235|4,649,059|1|
-|20|65,906,100|3,980,784|1|
-|21|42,594,448|8,609,782|3|
-|22|50,188,155|12,199,724|2|
-|X|154,359,490|4,964,647|1|
-|Y|24,141,209|7,270,630|79|
+|1|248,415,701|313,110|1|
+|2|242,509,959|121,368|1|
+|3|200,717,518|66,879|1|
+|4|193,408,891|160,207|1|
+|5|182,049,998|242,241|1|
+|6|171,893,897|580,345|1|
+|7|160,394,084|63,766|1|
+|8|146,097,661|45,521|1|
+|9|149,697,505|552,190|1|
+|10|134,341,430|96,995|1|
+|11|134,654,341|187,837|1|
+|12|133,439,878|134,336|1|
+|13|113,815,969|1,945,217|1|
+|14|100,860,689|383,777|1|
+|15|99,808,683|324,703|1|
+|16|96,296,229|90,461|1|
+|17|83,946,371|35,653|1|
+|18|80,696,073|17,072|1|
+|19|61,612,450|492,841|1|
+|20|67,262,993|68,171|1|
+|21|44,996,062|809,973|1|
+|22|51,228,133|1,537,791|1|
+|X|154,434,329|425,691|1|
+|Y|62,480,187|2,340,276|1|
 |M|16,568|0|1|
-|unplaced|1,165,067|0|67|
-|Total|3,065,894,716|217,943,071|176||
-
+|unplaced|1,094,223|0|64|
+|Total|3,116,169,811|11,146,948|89|
 
