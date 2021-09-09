@@ -16,8 +16,7 @@ Aleksey Zimin, Alaina Shumate, Ida Shinder, Jakob Heinz, Daniela Puiu, Mihaela P
 
 `A reference-quality, fully annotated genome from a Puerto Rican individual`, unpublished
 
-The FASTA sequences and VCF heterozygous variants for the version 3.0 is available at:
-
+The FASTA sequences and VCF heterozygous variants for the version 3.0 are available at:
 * ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v3.0/Assembly/PR1.fa.gz
 * ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v3.0/Assembly/PR1_v3.0_heterozygous_sites.vcf.gz
 
