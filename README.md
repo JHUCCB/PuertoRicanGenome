@@ -6,7 +6,7 @@ The data for the PR1 genome was generated and made publicly available by the Hum
 
 The individual is identified as HG01243 in these collections.
 
-The chromosome sequences for the PR1 reference genome contain bases encoded in uppercase and lowercase letters.  The uppercase letters represent sequence that originated from the PR1 de novo assembled contigs, and the lowercase bases represent sequence that we took from the CHM13 1.0 genome assembly by the T2T consortium (chromosomes 1-22 and X) and GRCh38 (chromosome Y) to fill intra-contig gaps in the chromosome sequences.
+The chromosome sequences for the PR1 reference genome contain bases encoded in uppercase and lowercase letters.  The uppercase letters represent sequence that originated from the PR1 de novo assembled contigs, and the lowercase bases represent sequence that we took from the CHM13 1.1 genome assembly by the T2T consortium  to fill intra-contig gaps in the chromosome sequences.
 
 # Version 3.0 (Sept 10 2021)
 
