@@ -20,7 +20,6 @@ The FASTA sequences and VCF heterozygous variants for the version 3.0 are availa
 * ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v3.0/Assembly/PR1.fa.gz
 * ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v3.0/Assembly/PR1_v3.0_heterozygous_sites.vcf.gz
 
-# Version 3.0
 
 |Chromosome|Total sequence|Non-HG01243 sequence|Number of contigs|Number of heterozygous sites|
 |----|----|----|----|----|
