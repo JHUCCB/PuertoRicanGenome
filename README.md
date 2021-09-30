@@ -51,7 +51,7 @@ The FASTA sequences and VCF heterozygous variants for the version 3.0 are availa
 |unplaced|1,094,223|0|64|1,730|
 |Total|3,116,169,811|11,036,211|89|4,274,846|
 
-|chr|GRCh38 #ctg|GRCh38 size|PR1 #contigs|PR1 size|PR1 Non-HG01243 sequence|PR1 #heterozygous sites|
+|Chromosome|GRCh38 #ctg|GRCh38 size|PR1 #contigs|PR1 size|PR1 Non-HG01243 sequence|PR1 #heterozygous sites|
 |---|---|---|----|----|----|----|
 |chr1|165|230,481,014|1|248,415,701|313,094|308,891|
 |chr2|25|240,548,237|1|242,509,959|121,360|303,641|
