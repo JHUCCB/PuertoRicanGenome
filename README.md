@@ -48,3 +48,5 @@ The FASTA sequences and VCF heterozygous variants for the version 3.0 are availa
 |chrY|50|23,636,355|1|62,480,187|2,340,268|39,343|
 |chrM|1|1,6570|1|16,568|0|0|
 |unplaced|614|183,802,804|64|1,094,223|64|0|1,730|
+
+
