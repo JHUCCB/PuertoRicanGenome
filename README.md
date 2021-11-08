@@ -19,6 +19,7 @@ Aleksey Zimin, Alaina Shumate, Ida Shinder, Jakob Heinz, Daniela Puiu, Mihaela P
 The FASTA sequences and VCF heterozygous variants for the version 3.0 are available at:
 * ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v3.0/Assembly/PR1.fa.gz
 * ftp://ftp.ccb.jhu.edu/pub/data/Homo_sapiens/PR1/v3.0/Assembly/PR1_v3.0_heterozygous_sites.vcf.gz
+(username:anonymous, no password)
 
 |Chromosome|CHM13 #ctg|CHM13 size|PR1 #contigs|PR 1size|PR1 Non-HG01243 sequence|PR1 #heterozygous sites|
 |---|---|---|----|----|----|----|
